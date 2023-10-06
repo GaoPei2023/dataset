@@ -1,0 +1,5 @@
+Performance Evaluation Dataset：
+
+The RBF  Excel file represents the difficulty coefficients for each scene, with each entry corresponding to the respective scene in the video files based on their numerical sequence.
+
+In the Unreal Engine dataset, the visual cues related to looming objects are consistent across all scene types, which is why there is only one annotation file. Furthermore, within each category of data files, scenes are categorized in ascending order based on their numbers as follows: camera approaching an object, object approaching the camera, and the camera and object simultaneously moving closer to each other.
